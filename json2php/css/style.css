@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.mm{
+  margin: 0.5em: 0; 
+  padding: 1em;
+  width: 100%;
+  min-height: 200px;
+  height: 100%;
+}
+#input {
+  width: 100%;
+  min-height: 200px;
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+#output{
+  background: #272823;
+}
+
+pre {
+  min-height:200px;
+}

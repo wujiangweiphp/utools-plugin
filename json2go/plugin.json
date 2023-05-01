@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "json2go",
+		  "explain": "you know json2go",
+			"cmds":["json2go"]
+		}
+	]
+}

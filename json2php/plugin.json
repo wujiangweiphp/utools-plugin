@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "json2php",
+		  "explain": "you know json2php",
+			"cmds":["json2php"]
+		}
+	]
+}
